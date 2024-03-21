@@ -152,7 +152,7 @@ Refer to your instruction card on Piazza and the textbook to learn more about th
 > [!Tip]
 > When you type an instruction name in VScode, a drop-down menu appears with suggestions. If you click on one of the suggestions, the syntax of the instruction will be given to you along with a comment providing information about the function of the instruction. This is also a helpful reference for you to keep in mind.  If it doesn't appear, you may have to press Ctrl/Cmd + Space and start typing.
 
-<video src="autocomplete.mp4" autoplay loop></video>
+https://github.com/ece362-purdue/lab9-control-flow/assets/12859429/d531ca67-d2eb-414c-af19-4ec26b823646
 
 ### Creating higher-level constructs: if-else
 
