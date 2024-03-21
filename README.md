@@ -158,8 +158,8 @@ https://github.com/ece362-purdue/lab9-control-flow/assets/12859429/d531ca67-d2eb
 
 With the compare-and-branch instructions, we can construct `if-else` clauses like this:
 
-```assembly
-and x10, x10, x0   # resetting x10
+```c
+and x10, x10, x0   // resetting x10
 li x11, 1
 
 // If-else
